@@ -30,7 +30,7 @@ Por fim, analisando o portfólio de um candidato, pesquisando o código-fonte de
 
 ![Veja bem o portfólio de programação de seus candidatos](https://w2.codingame.com/work/wp-content/uploads/2018/07/binoculars-100590_640-1-1.jpg)
 
-Uma boa olhada no portfólio de programação de um candidato fornece uma ideia de suas habilidades de codificação e experiência
+_Uma boa olhada no portfólio de programação de um candidato fornece uma ideia de suas habilidades de codificação e experiência._
 
 # 2. Dê uma olhada na conta do GitHub
 
