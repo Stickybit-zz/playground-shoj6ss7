@@ -1,6 +1,6 @@
 ![Teste as habilidades dos desenvolvedores](https://w1.codingame.com/work/wp-content/uploads/2018/07/rsz_1tough-mudder-challenge_2.jpg)
 
-Avaliar as habilidades de codificação dos programadores se tornou uma etapa essencial em qualquer processo de recrutamento técnico. Em [um estudo que realizamos](https://www.codingame.com/work/tech-recruiting-survey-report-2019/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53093), descobrimos que o principal desafio encontrado por 60% dos recrutadores ao contratar desenvolvedores era o de encontrar candidatos suficientemente qualificados. De fato, a maioria das contratações problemáticas no recrutamento de tecnologia se resume à falta de habilidades técnicas.
+Avaliar as habilidades de codificação dos programadores se tornou uma etapa essencial em qualquer processo de recrutamento técnico. Em [um estudo que realizamos](https://www.codingame.com/work/tech-recruiting-survey-report-2019/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53093), descobrimos que o principal desafio encontrado por 60% dos recrutadores ao contratar desenvolvedores era o de encontrar candidatos suficientemente qualificados. De fato, a maioria das contratações problemáticas no recrutamento de tecnologia se resume à falta de habilidades técnicas. 
 
 Você deve estar pensando: _"Espera aí, você não pode confiar nos currículos dos desenvolvedores?"_. Bom, não.
 
